@@ -1,0 +1,37 @@
+---------------------------
+---------------------------
+// video 2
+
+cd ..
+
+cd ..
+
+ipconfig
+
+color 1
+
+color 1c
+
+color
+
+color -help
+
+color 04
+
+title osama 
+
+mkdir osama
+
+cd osama
+
+explorer .
+
+explorer
+
+clear
+
+cls
+
+ls
+
+dir

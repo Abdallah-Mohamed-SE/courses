@@ -1,0 +1,7 @@
+---------------------------
+---------------------------
+// video 1
+
+ipconfig
+
+mkdir images fonts assets
