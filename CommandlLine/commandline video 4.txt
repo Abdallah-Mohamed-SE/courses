@@ -1,0 +1,152 @@
+---------------------------
+---------------------------
+// video 4
+ls
+
+move Testing Test
+
+dir
+
+move || mv
+
+clear
+
+ls
+
+mv Test Testing
+
+ls
+
+mv Testing fonts
+
+ls 
+
+cd fonts\
+
+ls
+
+mv Testing ..\
+
+ls 
+
+mkdir X
+
+ls 
+
+mv X ..
+
+ls 
+
+cd .. 
+
+ls 
+
+mv Testing \
+
+ls
+
+cd  ..
+
+cd Testing\
+
+cd ..
+
+mv Testing Elzero
+
+cd Test
+
+cd Elzero \ 
+
+ls
+
+rename X Z
+
+ls 
+
+move "Osama Elzero" OsElzero
+
+ls
+
+cp fonts fonts2
+
+ls 
+
+cp assets assets2
+
+cd assets\
+
+ls 
+
+cd ..
+
+clear
+
+cp --help
+
+clear
+
+ls
+
+cp -r css css2
+
+ls
+
+cd fonts\
+
+ls
+
+cd ..
+
+cd css 
+
+ls 
+
+mkdir foldername
+
+ls
+
+cd .. 
+
+clear
+
+ls
+
+rm css 
+
+rm --help
+
+rm -R css
+
+ls
+
+rm -r css2
+
+ls
+
+cd Z
+
+ls
+
+cd ..
+
+clear 
+
+rm Z
+
+rm -d Z
+
+ls 
+
+cd Testing\
+
+ls
+
+mkdir Osama
+
+cd ..
+
+clear
+
+rm -d Testing\
+
+rm --help
