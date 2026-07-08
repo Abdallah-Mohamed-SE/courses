@@ -1,0 +1,54 @@
+---------------------------
+---------------------------
+// video 5
+echo "Hello"
+
+echo "hello" > osama.txt
+
+ls
+
+echo "Test" > osama.txt
+
+echo "Testing" >> osama.txt
+
+cat osama.txt 
+
+echo "Osama" > testing.txt
+
+ls 
+
+cat osama.txt testing.txt
+
+cat *
+
+ls
+
+cat osama.txt > zero.txt
+
+ls
+
+cat zero.txt
+
+cat *
+
+cat zero.txt
+
+echo "last" > last.txt
+
+ls
+
+cat last.txt
+
+cat testing.txt
+
+cat last.txt >> testing.txt
+
+cat testing.txt
+
+ls
+
+cat last.txt osama.txt testing.txt zero.txt >final_destination.txt
+
+ls
+
+cat final_destination.txt
