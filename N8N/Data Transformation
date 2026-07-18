@@ -1,0 +1,5 @@
+// استخراج أسماء المهام من حقل Task لجميع الصفوف
+const tasks = $input.all().map(item => item.json.Task); 
+
+// دمجها معاً لتصبح نصاً عادياً مفصولاً بسطر جديد
+return [{ json: { text: tasks.join('\n') } }];
